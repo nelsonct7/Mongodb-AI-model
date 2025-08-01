@@ -1,0 +1,10 @@
+pymongo
+langchain
+langchain-openai
+langgraph
+langgraph-checkpoint-mongodb
+tiktoken
+tqdm
+Pillow
+voyageai
+datasets
